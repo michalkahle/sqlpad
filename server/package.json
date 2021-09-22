@@ -111,7 +111,7 @@
     "sqlpad": "server.js"
   },
   "optionalDependencies": {
-    "odbc": "^2.2.2"
+    "odbc": "^2.4.0"
   },
   "devDependencies": {
     "aws-sdk-mock": "^5.2.2",
